@@ -25,6 +25,6 @@
 - [x] git remote add
 - [x] git push
 - [x] git pull
-- [ ] git branch
+- [x] git branch
 
 Виконала: ***Смиковська Анна***
